@@ -3,11 +3,16 @@
 Wanted to share some of my interactive projects I have done!
 
 https://cds.cern.ch/record/2705782?ln=en
+
 Here is the record of the interferometer I designed for high school students to learn about complex physics in a really simple way. We managed to get kids performing their own quantum experiments with £50 worth of equipment and 10 minutes of teaching. It is now a big hit on the science gateway/S'cool lab outreach programs at CERN! If you want the latest design it is up to date here:
+
 https://scoollab.web.cern.ch/laserlab3D
 
-http://www.mediafire.com/file/cdr427dj3cs7xna/Brickify-1.0.1.zip/file
+
 Here is Brickify!
+![alt text](https://github.com/matthew-gratin/portfolio/blob/main/brickfy%20example.png)
+http://www.mediafire.com/file/cdr427dj3cs7xna/Brickify-1.0.1.zip/file
+
 This converts normal pictures to lego pictures
 
 This is brickify 1.0.1 Second release with more build features planned if demand is high (however I have done no premotion for this so I doubt it will be a priority untill I want to make more lego mosaics myself.
