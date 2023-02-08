@@ -2,6 +2,8 @@
 
 Wanted to share some of my interactive projects I have done!
 
+This is my super cheap interferometer I made for CERN!
+![alt text](https://github.com/matthew-gratin/portfolio/blob/main/interferometer.jpg)
 https://cds.cern.ch/record/2705782?ln=en
 
 Here is the record of the interferometer I designed for high school students to learn about complex physics in a really simple way. We managed to get kids performing their own quantum experiments with £50 worth of equipment and 10 minutes of teaching. It is now a big hit on the science gateway/S'cool lab outreach programs at CERN! If you want the latest design it is up to date here:
@@ -28,5 +30,23 @@ Saturation is between -255 and 255 for each colour. it offsets the image deeper 
 Saving a file also adds a text file to the directory, this contains the bricks you need to create that image and a link where to buy them.
 
 Improvements to make: -add multi brick type generation -heightmap additions -different dithering options -different default methods of hue connection as euler distance rgb counter intuitively doesnt produce the most visually similar colours.
+
+
+This is the self playing piano "Tchaibotsky"
+
+https://github.com/matthew-gratin/portfolio/blob/main/piano.jpg
+
+This is a piano that can compose music by itself and play it too! see if you can tell the difference between human and computer generated and performed art in this turing test:
+
+https://docs.google.com/forms/d/e/1FAIpQLSdsWYuC4zJo1RCfpW2OO7gJrU88cWlsbYe5tWjYFyxj3gjd-g/viewform
+
+From the results of this test I found out people just couldn't tell the difference. What an amazing world we live in!
+This is built from 88 solenoid actuators and a simple raspberry pi. It can generate unlimited amounts of music in the form of midi files and can even attempt to harmonise it with your own songs. 
+
+If the google docs doesn't work the music clips are in the repo.
+
+Wizard Chess!
+
+
 
 
