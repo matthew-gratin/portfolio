@@ -34,7 +34,7 @@ Improvements to make: -add multi brick type generation -heightmap additions -dif
 
 This is the self playing piano "Tchaibotsky"
 
-https://github.com/matthew-gratin/portfolio/blob/main/piano.jpg
+![alt text](https://github.com/matthew-gratin/portfolio/blob/main/piano.jpg)
 
 This is a piano that can compose music by itself and play it too! see if you can tell the difference between human and computer generated and performed art in this turing test:
 
@@ -47,6 +47,13 @@ If the google docs doesn't work the music clips are in the repo.
 
 Wizard Chess!
 
+![alt text](https://github.com/matthew-gratin/portfolio/blob/main/chess%20image.jpg)
 
+I love Harry Potter and thought it would be cool to make a the wizards chess in real life with the magic of engineering. You just need to speak the chess commands and the pieces move on their own to the right places, just like in the movie. There are 3 modes, player vs player, player vs computer and my personal favourite is computer vs computer. I coded the AI from scratch using markov decision trees and it was just about good enough to beat me!
+It uses an electromagnet on a 2 axes gantry to move the pieces to the desired locations. I am starting a kickstarter for this to be a commercial product as there are several products without the speech USP currently being sold at price I can undercut that have been incredibly successful. Features I want to develop are web access, so you can play against people online and connect to live chess streams where the wizard chess board would move its pieces as the professional players move theirs.
+
+There are a couple videos in this github of it working, but if you want to interview me I might bring the board to your office for a friendly game ;)
+
+https://github.com/matthew-gratin/portfolio/blob/main/pawn_move.mp4
 
 
