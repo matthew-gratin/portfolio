@@ -58,11 +58,20 @@ There are a couple videos in this github of it working, but if you want to inter
 
 https://github.com/matthew-gratin/portfolio/blob/main/pawn_move.mp4
 
+
+Here is the drawing machine. I built it from my old 3d printed CNC machine I made.
+
+![alt text](https://github.com/matthew-gratin/portfolio/blob/main/417015412_3267467930212963_5978014354640970526_n.jpg)
+
+It runs off gbrl with some TMC2208 drivers. 
+![alt text](https://github.com/matthew-gratin/portfolio/blob/main/417487049_7420312574680181_8911318335456844971_n.mp4)
+
+I made it do art for me as I have no talent other than for image binarisation algorithms and robotics.
+![alt text](https://github.com/matthew-gratin/portfolio/blob/main/411062386_1005629607648093_974153597133220309_n.jpg)
+
 # To add to github:
 
 Nixie Tube metric clock
-
-Drawing Machine
 
 Automatic Chopsticks
 
