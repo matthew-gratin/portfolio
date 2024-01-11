@@ -1,12 +1,10 @@
 # portfolio
 
-Wanted to share some of my interactive projects I have done!
-
-This is my super cheap interferometer I made for CERN!
+This is cheap low tech interferometer I made for CERN
 ![alt text](https://github.com/matthew-gratin/portfolio/blob/main/interferometer.jpg)
 https://cds.cern.ch/record/2705782?ln=en
 
-Here is the record of the interferometer I designed for high school students to learn about complex physics in a really simple way. We managed to get kids performing their own quantum experiments with £50 worth of equipment and 10 minutes of teaching. It is now a big hit on the science gateway/S'cool lab outreach programs at CERN! If you want the latest design it is up to date here:
+Here is the record of the interferometer I designed for high school students to learn about complex physics in a really simple way. We managed to get kids creating real quantum effects with £50 worth of equipment and 10 minutes of teaching. It could even measure witht he help of a Fourier transform measure deflection to 50nm. It is now a big hit on the science gateway/S'cool lab outreach programs at CERN! If you want the latest design it is up to date here:
 
 https://scoollab.web.cern.ch/laserlab3D
 
@@ -17,7 +15,7 @@ http://www.mediafire.com/file/cdr427dj3cs7xna/Brickify-1.0.1.zip/file
 
 This converts normal pictures to lego pictures
 
-This is brickify 1.0.1 Second release with more build features planned if demand is high (however I have done no premotion for this so I doubt it will be a priority untill I want to make more lego mosaics myself.
+This is brickify 1.0.1 Second release with more build features planned if demand is high (however I have done no promotion for this so I doubt it will be a priority untill I want to make more lego mosaics myself).
 
 Common colours are colours that regularly have over 1000 bricks on bricklink available. Most colours are still avaiable and don't cost more than 2p so are still viable but will potentially make an awkward order. Greyscale uses new lego grey colours (light grey and dark grey is discontinued)
 
@@ -40,6 +38,10 @@ This is a piano that can compose music by itself and play it too! see if you can
 
 https://docs.google.com/forms/d/e/1FAIpQLSdsWYuC4zJo1RCfpW2OO7gJrU88cWlsbYe5tWjYFyxj3gjd-g/viewform
 
+I got featured on Tiffany Poon's podcast!
+
+https://www.youtube.com/watch?v=dhRES9lAGE0
+
 From the results of this test I found out people just couldn't tell the difference. What an amazing world we live in!
 This is built from 88 solenoid actuators and a simple raspberry pi. It can generate unlimited amounts of music in the form of midi files and can even attempt to harmonise it with your own songs. 
 
@@ -50,10 +52,29 @@ Wizard Chess!
 ![alt text](https://github.com/matthew-gratin/portfolio/blob/main/chess%20image.jpg)
 
 I love Harry Potter and thought it would be cool to make a the wizards chess in real life with the magic of engineering. You just need to speak the chess commands and the pieces move on their own to the right places, just like in the movie. There are 3 modes, player vs player, player vs computer and my personal favourite is computer vs computer. I coded the AI from scratch using markov decision trees and it was just about good enough to beat me!
-It uses an electromagnet on a 2 axes gantry to move the pieces to the desired locations. I am starting a kickstarter for this to be a commercial product as there are several products without the speech USP currently being sold at price I can undercut that have been incredibly successful. Features I want to develop are web access, so you can play against people online and connect to live chess streams where the wizard chess board would move its pieces as the professional players move theirs.
+It uses an electromagnet on a 2 axes gantry to move the pieces to the desired locations. I am starting a kickstarter for this to be a commercial product, warner bros would license it but I have to pay them, as there are several products without the speech USP currently being sold at price I can undercut that have been incredibly successful. Features I want to develop are web access, so you can play against people online and connect to live chess streams where the wizard chess board would move its pieces as the professional players move theirs.
 
 There are a couple videos in this github of it working, but if you want to interview me I might bring the board to your office for a friendly game ;)
 
 https://github.com/matthew-gratin/portfolio/blob/main/pawn_move.mp4
+
+# To add to github:
+
+Nixie Tube metric clock
+
+Drawing Machine
+
+Automatic Chopsticks
+
+Orrery
+
+Drone
+
+
+# To Build:
+
+Robot dog
+
+Virtual Sister
 
 
