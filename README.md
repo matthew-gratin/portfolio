@@ -1,4 +1,4 @@
-# portfolio
+# Interferometer
 
 This is cheap low tech interferometer I made for CERN
 ![alt text](https://github.com/matthew-gratin/portfolio/blob/main/interferometer.jpg)
@@ -8,8 +8,25 @@ Here is the record of the interferometer I designed for high school students to 
 
 https://scoollab.web.cern.ch/laserlab3D
 
+# The self playing piano "Tchaibotsky"
 
-Here is Brickify!
+![alt text](https://github.com/matthew-gratin/portfolio/blob/main/piano.jpg)
+
+This is a piano that can compose music by itself and play it too! see if you can tell the difference between human and computer generated and performed art in this turing test:
+
+https://docs.google.com/forms/d/e/1FAIpQLSdsWYuC4zJo1RCfpW2OO7gJrU88cWlsbYe5tWjYFyxj3gjd-g/viewform
+
+I got featured on Tiffany Poon's podcast!
+
+https://www.youtube.com/watch?v=dhRES9lAGE0
+
+From the results of this test I found out people just couldn't tell the difference. What an amazing world we live in!
+This is built from 88 solenoid actuators and a simple raspberry pi. It can generate unlimited amounts of music in the form of midi files and can even attempt to harmonise it with your own songs. 
+
+If the google docs doesn't work the music clips are in the repo.
+
+
+# Brickify
 ![alt text](https://github.com/matthew-gratin/portfolio/blob/main/brickfy%20example.png)
 http://www.mediafire.com/file/cdr427dj3cs7xna/Brickify-1.0.1.zip/file
 
@@ -30,24 +47,7 @@ Saving a file also adds a text file to the directory, this contains the bricks y
 Improvements to make: -add multi brick type generation -heightmap additions -different dithering options -different default methods of hue connection as euler distance rgb counter intuitively doesnt produce the most visually similar colours.
 
 
-This is the self playing piano "Tchaibotsky"
-
-![alt text](https://github.com/matthew-gratin/portfolio/blob/main/piano.jpg)
-
-This is a piano that can compose music by itself and play it too! see if you can tell the difference between human and computer generated and performed art in this turing test:
-
-https://docs.google.com/forms/d/e/1FAIpQLSdsWYuC4zJo1RCfpW2OO7gJrU88cWlsbYe5tWjYFyxj3gjd-g/viewform
-
-I got featured on Tiffany Poon's podcast!
-
-https://www.youtube.com/watch?v=dhRES9lAGE0
-
-From the results of this test I found out people just couldn't tell the difference. What an amazing world we live in!
-This is built from 88 solenoid actuators and a simple raspberry pi. It can generate unlimited amounts of music in the form of midi files and can even attempt to harmonise it with your own songs. 
-
-If the google docs doesn't work the music clips are in the repo.
-
-Wizard Chess!
+# Wizard Chess
 
 ![alt text](https://github.com/matthew-gratin/portfolio/blob/main/chess%20image.jpg)
 
@@ -59,7 +59,9 @@ There are a couple videos in this github of it working, but if you want to inter
 https://github.com/matthew-gratin/portfolio/blob/main/pawn_move.mp4
 
 
-Here is the drawing machine. I built it from my old 3d printed CNC machine I made.
+# The drawing machine. 
+
+I built it from my old 3d printed CNC machine I made.
 
 ![alt text](https://github.com/matthew-gratin/portfolio/blob/main/417015412_3267467930212963_5978014354640970526_n.jpg)
 
