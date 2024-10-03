@@ -25,16 +25,17 @@ From the results of this test I concluded people couldn't tell the difference. T
 This is built from 88 solenoid actuators. It can generate unlimited unconditioned pieces around 2-3 minutes in length in the form of midi files and can even attempt to harmonise it with your own songs. 
 
 If the google docs doesn't work the music clips are in the repo. Here is a link to my thesis on the first version:
+
 ![alt text](https://github.com/matthew-gratin/portfolio/blob/main/Tchaibotsky-2_compressed-1.pdf) 
 
-Version 2 of this with better esd protected circuit boards and greater accuracy will be presented in a lecture at Oxford University in November
+Version 2 of this with better esd protected PCB circuit boards and aluminium frame and greater controller accuracy will be presented in a lecture at Oxford University in November
 
 # Robot Sister
 
 It was my cousins wedding and my sister had to miss it as she was in New Zealand in the middle of a huge rocket mission. My mission was to build a telepresence robot in 2 weeks to get her to the wedding. I made a 3 omniwheeled robot with camera, microphone and speaker. Made it stream the video feed to a webpage which she could use to ssh into the robot via a virtual local network and then control all the features through the internet. She was able to dance the robot with everyone else and sing along to all the songs (with 1.2 seconds time delay). 
-![alt text](https://github.com/matthew-gratin/portfolio/blob/main/darcey pre party.jpeg) 
+![alt text](https://github.com/matthew-gratin/portfolio/blob/main/darcey%20pre%20party.jpeg?raw=true) 
 she got a bit battered during the wedding!
-![alt text](https://github.com/matthew-gratin/portfolio/blob/main/darcey post party.jpeg) 
+![alt text](https://github.com/matthew-gratin/portfolio/blob/main/darcey%20post%20party.jpeg?raw=true) 
 
 # Wizard Chess
 
@@ -83,7 +84,7 @@ Improvements to make: -add multi brick type generation -heightmap additions -dif
 # Nixie tube clock
 
 I have always been a fan of a metric time. That being 10 hours in a day, 100 minutes in an hour and 100 seconds in a minute. However no clocks on the market have this feature, so I had to make one. It has a custom pcb for driving the ocsillator and high voltage tubes. I gave it three modes so it can be used as a boring normal clock too.
-![alt text](https://github.com/matthew-gratin/portfolio/blob/main/nixie clock.jpeg)
+![alt text](https://github.com/matthew-gratin/portfolio/blob/main/nixie%20clock.jpeg?raw=true)
 
 # To add to github:
 
