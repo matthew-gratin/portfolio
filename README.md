@@ -1,15 +1,11 @@
 # Interferometer
 
-This is cheap low tech interferometer I made for CERN
 <p align="center">
-  <img src="data/interferometer.jpg" width="400" height="200" alt="Interferometer">
+  <img src="data/interferometer.jpg" width="400" height="300" alt="Interferometer">
 </p>
 
-https://cds.cern.ch/record/2705782?ln=en
 
-Here is the record of the interferometer I designed for high school students to learn about complex physics in a really simple way. We managed to get kids creating real quantum effects with £50 worth of equipment and 10 minutes of teaching. It could even measure with the help of a Fourier transform the deflection of a piezo crystal to 50nm. It is now part of the science gateway outreach programs at CERN! If you want the latest design it is up to date here:
-
-https://scoollab.web.cern.ch/laserlab3D
+  Here is the record of the interferometer I designed at CERN for high school students to make their own quantum physics effects in a really straight forward and cheap way. Currently these tools cost £4000 and are complicated for even a scientist to set up; despite them being on the curriculum. I redesigned it to be made for £40 using a cheap laser pen and a 3D printer, with three different experiments. Two interferometer types, super accurate measuring devices with laser that are used to find gravity waves!. We could even measure (with the help of a cheeky Fourier transform) the deflection of a piezo crystal to 50nm (that is measuring something 2000x thinner than your hair). I helped run a big workshop with kids and teachers to test and refine our instructions and masking guides; by the end of it kids were able to create a real quantum eraser and prove for themselves that light doesn't move in a straight line in under ten minutes with no help. Importantly, what was usualy a dry and hard to explain physics lesson became, for both teachers and kids, a super fun day they could independantly discover crazy stuff about the universe. [Here is the initial design and testing documentation and how that all works.](https://cds.cern.ch/record/2705782?ln=en) It is part of the science gateway outreach program in CERN, so if you are a school kid going on a trip there be prepared to make your own quantum waves! If you want the latest design to print your own, it lives [here!](https://scoollab.web.cern.ch/laserlab3D)
 
 # The self playing piano "Tchaibotsky"
 
