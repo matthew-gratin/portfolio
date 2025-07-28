@@ -1,8 +1,10 @@
 # Interferometer
 
 This is cheap low tech interferometer I made for CERN
+<p align="center">
+  <img src="data/interferometer.jpg" width="400" height="200" alt="Interferometer">
+</p>
 
-![alt text](https://github.com/matthew-gratin/portfolio/blob/main/interferometer.jpg)
 https://cds.cern.ch/record/2705782?ln=en
 
 Here is the record of the interferometer I designed for high school students to learn about complex physics in a really simple way. We managed to get kids creating real quantum effects with £50 worth of equipment and 10 minutes of teaching. It could even measure with the help of a Fourier transform the deflection of a piezo crystal to 50nm. It is now part of the science gateway outreach programs at CERN! If you want the latest design it is up to date here:
