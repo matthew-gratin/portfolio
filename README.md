@@ -31,7 +31,7 @@ I was asked to do the Oxford University Robotics Institute Christmas Lecture thi
 # Robot Sister
 
 <p align="center">
-  <img src="data/darcey pre party.jpeg" width="400" height="550" alt="Darcey pre">
+  <img src="data/darcey pre party.jpeg" width="300" height="550" alt="Darcey pre">
 </p>
 
 It was my cousins wedding two years ago and my sister had to miss it as she was in New Zealand launching rockets at Rocket lab! My mission was to build a telepresence robot in 2 weeks to get her to the wedding. I made a 3 omniwheeled robot with camera, microphone and speaker. Made it stream the video feed to a webpage which she could use to SSH into the robot via a virtual local network and then control all the features simply through the web browser. She was able to dance the robot with everyone else and sing along to all the songs (with 1.2 seconds time delay). And before you ask, yes there was an evil robot voice mode.
@@ -49,7 +49,7 @@ She got a bit battered during the wedding!
 </p>
 
 I was watching Harry Potter with some friends and thought they should have used practical effects for the scenes where Ron can make chess pieces move around the board with just his voice. My friends told me it would be impossible, so of course I needed to prove them wrong! There are 3 modes, player vs player, player vs computer and my personal favourite is computer vs computer. I coded the AI from scratch using markov decision trees. It only needs to look two moves ahead to beat me every time, I don't know what that says about me!
-It uses an electromagnet on a 2 axes gantry to move the pieces to the desired locations. It used to connect to a google cloud server to offload the speech recognition system to Google's much bulkier computer than my NUC. This limited its commerical potential. However, with advances in AI, I can now run an offline deep learning Whisper model on a Pi 5, while a Teensy microcontroller deals with all the actuation. Features I want to develop are web access, so you can play against people online and connect to live chess streams where the wizard chess board would move its pieces as the professional players move theirs. My favourite thing to do at the moment is watch the CPU's play each other. I now have a client who wants this built as a coffee table to have Chess games play automatically under a mug of tea, I am slowly hoping to build this more often for others as I think it will be quite popular.
+It uses an electromagnet on a 2 axes gantry to move the pieces to the desired locations. It used to connect to a google cloud server to offload the speech recognition system to Google's much bulkier computer than my NUC. This limited its commerical potential. However, with advances in AI, I can now run an offline deep learning Whisper model on a Pi 5, while a Teensy microcontroller deals with all the actuation. I also built the chess board by photo etching brass and then filling the holes with black shellac wax; its the same method for making clock faces. Features I want to develop are web access, so you can play against people online and connect to live chess streams where the wizard chess board would move its pieces as the professional players move theirs. My favourite thing to do at the moment is watch the CPU's play each other. I now have a client who wants this built as a coffee table to have Chess games play automatically under a mug of tea, I am slowly hoping to build this more often for others as I think it will be quite popular.
 
 Github doesn't allow native videos but you can find some videos of it working in the data folder. But, if you want to have a game and see more you will need to bring me to the office! ;)
 
@@ -58,26 +58,26 @@ Github doesn't allow native videos but you can find some videos of it working in
 I wanted to make a painting for my girlfriend's birthday but I have no talent in art as I have no talent other than computer vision algorithms and robotics. She was happy with my robots art!
 
 <p align="center">
-  <img src="data/brenna_photo_outcome.jpg" width="500" height="400" alt="brenna">
+  <img src="data/brenna_photo_outcome.jpg" width="350" height="550" alt="brenna">
 </p>
 
 I built it from my old 3d printed CNC machine I made. Now I have a proper CNC it had become redundant to own a rubbishy one. I built an image to SVG to G-code converter that uses Canny edge detection, blob analysis and some post processing techniques to convert images, in multiple bespoke artistic ways, and then output gcode it sends to the machine.
 
 <p align="center">
-  <img src="data/drawing machine mid draw.jpg" width="500" height="400" alt="drawing">
+  <img src="data/Drawing machine mid draw.jpg" width="500" height="400" alt="drawing">
 </p>
 
 I made a second version which I developed into a second year design module at Oxford University's engineering undergraduate course. I have also run it as part of a week long workshop for high school kids to learn engineering. Needless to say they loved making something with their own hands that they could use to make more interesting things.
 
 <p align="center">
-  <img src="data/pen plotter course.jpg" width="500" height="400" alt="plotter">
+  <img src="data/pen plotter course.png" width="500" height="400" alt="plotter">
 </p>
 
 
 # Brickify
 
 <p align="center">
-  <img src="data/brickfy example.jpg" width="500" height="500" alt="bricks">
+  <img src="data/brickfy example.png" width="500" height="500" alt="bricks">
 </p>
 
 This is brickify 1.0.1, it is my tool to convert pictures into lego mosaics. I have plans for more build features planned if demand is high (however I have done no promotion for this so I doubt it will be a priority until I want to make more lego mosaics myself).
