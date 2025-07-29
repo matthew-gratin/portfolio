@@ -5,28 +5,31 @@
 </p>
 
 
-  Here is the record of the interferometer I designed at CERN for high school students to make their own quantum physics effects in a really straight forward and cheap way. Currently these tools cost £4000 and are complicated for even a scientist to set up; despite them being on the curriculum. I redesigned it to be made for £40 using a cheap laser pen and a 3D printer, with three different experiments. Two interferometer types, super accurate measuring devices with laser that are used to find gravity waves!. We could even measure (with the help of a cheeky Fourier transform) the deflection of a piezo crystal to 50nm (that is measuring something 2000x thinner than your hair). I helped run a big workshop with kids and teachers to test and refine our instructions and masking guides; by the end of it kids were able to create a real quantum eraser and prove for themselves that light doesn't move in a straight line in under ten minutes with no help. Importantly, what was usualy a dry and hard to explain physics lesson became, for both teachers and kids, a super fun day they could independantly discover crazy stuff about the universe. [Here is the initial design and testing documentation and how that all works.](https://cds.cern.ch/record/2705782?ln=en) It is part of the science gateway outreach program in CERN, so if you are a school kid going on a trip there be prepared to make your own quantum waves! If you want the latest design to print your own, it lives [here!](https://scoollab.web.cern.ch/laserlab3D)
+  Here is the record of the interferometer I designed at CERN. Currently these tools cost £4000 and are tricky for even a scientist to set up. I redesigned it using a cheap laser pen and a 3D printer for only £40. They are super accurate measuring devices that are currently used to find gravity waves. Ours can measure the deflection of a piezo crystal down to 50nm (that is 2000x thinner than your hair). I helped run a workshop with kids and teachers to refine our instructions and set up templates; by the end of it kids were able to create a quantum eraser and prove for themselves that light doesn't actually move in a straight line in under ten minutes with no help. Importantly, what was usualy a dry and hard to explain physics lesson became, a super fun day they could independantly discover crazy stuff about the universe. [Here is the initial design and testing documentation and how that all works.](https://cds.cern.ch/record/2705782?ln=en) It is part of the science gateway outreach program in CERN, so if you are a school kid going on a trip there be prepared to make your own quantum waves! If you want the latest design to print your own, it lives [here!](https://scoollab.web.cern.ch/laserlab3D)
 
 # The self playing piano "Tchaibotsky"
 
-![alt text](https://github.com/matthew-gratin/portfolio/blob/main/piano.jpg)
+<p align="center">
+  <img src="data/tchaibotsky.jpg" width="500" height="400" alt="Tchaibotsky">
+</p>
 
-This is a piano that can compose music by itself and play it too! see if you can tell the difference between human and computer generated and performed art in this turing test:
+This is a piano that can compose music by itself and play it too! see if you can tell the difference between human and computer generated and performed art in this turing test: [here ;)](https://docs.google.com/forms/d/e/1FAIpQLSdsWYuC4zJo1RCfpW2OO7gJrU88cWlsbYe5tWjYFyxj3gjd-g/viewform)
+Answers: <details><summary>Spoiler: Click to reveal</summary>Question 3 (top link) is a human, Question 1 (bottom link) is Tchaibotsky. Was Tchaibotsky able to fool you ;)</details>
 
-https://docs.google.com/forms/d/e/1FAIpQLSdsWYuC4zJo1RCfpW2OO7gJrU88cWlsbYe5tWjYFyxj3gjd-g/viewform
+From the results of this test I concluded people couldn't tell the difference. I know ai music composition has come along way since my initial design. This was originally built in the year the attention is all you need paper came out and started transformers (type of algorithm in chatgpt), it uses one of the earliest implimentations of one. It can generate unlimited unconditioned pieces around 2-3 minutes in length in the form of midi files and can even attempt to harmonise it with your own songs. This is built from 88 solenoid actuators. Originally using some breadboards and an old cupboard I found on the street for the frame! Now I have made some custom PCBs and an aluminium frame to drive it. It uses an Arduino with daisy chained shift registers that it sends fast PWM signals to transmit midi data to the fingers. For more details please read my [thesis](https://github.com/matthew-gratin/portfolio/blob/main/Tchaibotsky-2_compressed-1.pdf).
 
-I got featured on Tiffany Poon's podcast!
+[I got featured on Tiffany Poon's podcast!](https://www.youtube.com/watch?v=dhRES9lAGE0)
 
-https://www.youtube.com/watch?v=dhRES9lAGE0
+I was honoured to do the Oxford University Robotics Institute Christmas Lecture this year on the engineering design of Tchaibotsky and how music and maths link!
 
-From the results of this test I concluded people couldn't tell the difference. This was originally built in the year the Attention is all you need paper came out and popularised transformers, it uses one of the earliest implimentations of one. 
-This is built from 88 solenoid actuators. It can generate unlimited unconditioned pieces around 2-3 minutes in length in the form of midi files and can even attempt to harmonise it with your own songs. 
+<p align="center">
+  <img src="data/tchaibotsky lecture.jpg" width="500" height="400" alt="Tchaibotsky">
+</p>
 
-If the google docs doesn't work the music clips are in the repo. Here is a link to my thesis on the first version:
-
-![alt text](https://github.com/matthew-gratin/portfolio/blob/main/Tchaibotsky-2_compressed-1.pdf) 
-
-Version 2 of this with better esd protected PCB circuit boards and aluminium frame and greater controller accuracy will be presented in a lecture at Oxford University in November
+You can listen to it play some christmas songs (need to download as there is no native videos on github, another link in the data folder)
+<video width="400" height="300" controls>
+  <source src="data/tchaibotsky video.mp4" type="video/mp4">
+</video>
 
 # Robot Sister
 
