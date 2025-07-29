@@ -28,18 +28,32 @@ I was asked to do the Oxford University Robotics Institute Christmas Lecture thi
   <img src="data/tchaibotsky lecture.jpg" width="500" height="400" alt="Tchaibotsky">
 </p>
 
-# Robot Sister
+# Brickify
 
 <p align="center">
-  <img src="data/darcey pre party.jpeg" width="300" height="550" alt="Darcey pre">
+  <img src="data/brickfy example.png" width="500" height="500" alt="bricks">
 </p>
 
-It was my cousins wedding two years ago and my sister had to miss it as she was in New Zealand launching rockets at Rocket lab! My mission was to build a telepresence robot in 2 weeks to get her to the wedding. I made a 3 omniwheeled robot with camera, microphone and speaker. Made it stream the video feed to a webpage which she could use to SSH into the robot via a virtual local network and then control all the features simply through the web browser. She was able to dance the robot with everyone else and sing along to all the songs (with 1.2 seconds time delay). And before you ask, yes there was an evil robot voice mode.
+This is brickify 1.0.1, it is my tool to convert pictures into lego mosaics. I have plans for more build features planned if demand is high (however I have done no promotion for this so I doubt it will be a priority until I want to make more lego mosaics myself).
 
-She got a bit battered during the wedding!
+If you want to try it out, the download it the link is [here.](http://www.mediafire.com/file/cdr427dj3cs7xna/Brickify-1.0.1.zip/file)
+
+Here are some tips to explain how to use the software:
+
+Common colours are colours that regularly have over 1000 bricks on bricklink available. Most colours are still avaiable and don't cost more than 2p, so are still viable but will potentially make an awkward order. Greyscale uses new lego grey colours (light grey and dark grey is discontinued)
+
+Note that lego baseplates come in 48x48 and 32x32 configureations.
+
+Dithering uses floyd steinbeck method, just makes them look better. The aspect ratio does what you would expect.
+
+Saturation is between -255 and 255 for each colour - it offsets the image greater or lesser into that hue. I  use it to bias the image to certain lego bricks.
+
+Saving a file also adds a text file to the directory, this contains the bricks you need to create that image and a link where to buy them.
+
+Here is an example of a lego mosaic I made:
 
 <p align="center">
-  <img src="data/darcey post party.jpeg" width="500" height="400" alt="Darcey post">
+  <img src="data/lego britain.jpeg" width="300" height="600" alt="bricktain">
 </p>
 
 # Wizard Chess
@@ -73,33 +87,18 @@ I made a second version which I developed into a second year design module at Ox
   <img src="data/pen plotter course.png" width="500" height="400" alt="plotter">
 </p>
 
-
-# Brickify
+# Robot Sister
 
 <p align="center">
-  <img src="data/brickfy example.png" width="500" height="500" alt="bricks">
+  <img src="data/darcey pre party.jpeg" width="300" height="550" alt="Darcey pre">
 </p>
 
-This is brickify 1.0.1, it is my tool to convert pictures into lego mosaics. I have plans for more build features planned if demand is high (however I have done no promotion for this so I doubt it will be a priority until I want to make more lego mosaics myself).
+It was my cousins wedding two years ago and my sister had to miss it as she was in New Zealand launching rockets at Rocket lab! My mission was to build a telepresence robot in 2 weeks to get her to the wedding. I made a 3 omniwheeled robot with camera, microphone and speaker. Made it stream the video feed to a webpage which she could use to SSH into the robot via a virtual local network and then control all the features simply through the web browser. She was able to dance the robot with everyone else and sing along to all the songs (with 1.2 seconds time delay). And before you ask, yes there was an evil robot voice mode.
 
-If you want to try it out, the download it the link is [here.](http://www.mediafire.com/file/cdr427dj3cs7xna/Brickify-1.0.1.zip/file)
-
-Here are some tips to explain how to use the software:
-
-Common colours are colours that regularly have over 1000 bricks on bricklink available. Most colours are still avaiable and don't cost more than 2p, so are still viable but will potentially make an awkward order. Greyscale uses new lego grey colours (light grey and dark grey is discontinued)
-
-Note that lego baseplates come in 48x48 and 32x32 configureations.
-
-Dithering uses floyd steinbeck method, just makes them look better. The aspect ratio does what you would expect.
-
-Saturation is between -255 and 255 for each colour - it offsets the image greater or lesser into that hue. I  use it to bias the image to certain lego bricks.
-
-Saving a file also adds a text file to the directory, this contains the bricks you need to create that image and a link where to buy them.
-
-Here is an example of a lego mosaic I made:
+She got a bit battered during the wedding!
 
 <p align="center">
-  <img src="data/lego britain.jpeg" width="300" height="600" alt="bricktain">
+  <img src="data/darcey post party.jpeg" width="500" height="400" alt="Darcey post">
 </p>
 
 # Nixie tube clock
