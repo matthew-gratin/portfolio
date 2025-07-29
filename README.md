@@ -14,30 +14,31 @@
 </p>
 
 This is a piano that can compose music by itself and play it too! see if you can tell the difference between human and computer generated and performed art in this turing test: [here ;)](https://docs.google.com/forms/d/e/1FAIpQLSdsWYuC4zJo1RCfpW2OO7gJrU88cWlsbYe5tWjYFyxj3gjd-g/viewform)
-Answers: <details><summary>Spoiler: Click to reveal</summary>Question 3 (top link) is a human, Question 1 (bottom link) is Tchaibotsky. Was Tchaibotsky able to fool you ;)</details>
+Answers: <details><summary>Spoiler: Click to reveal</summary>-Question 3 (top link) is a human
+-Question 1 (bottom link) is Tchaibotsky. 
+Was Tchaibotsky able to fool you? ;)</details>
 
-From the results of this test I concluded people couldn't tell the difference. I know ai music composition has come along way since my initial design. This was originally built in the year the attention is all you need paper came out and started transformers (type of algorithm in chatgpt), it uses one of the earliest implimentations of one. It can generate unlimited unconditioned pieces around 2-3 minutes in length in the form of midi files and can even attempt to harmonise it with your own songs. This is built from 88 solenoid actuators. Originally using some breadboards and an old cupboard I found on the street for the frame! Now I have made some custom PCBs and an aluminium frame to drive it. It uses an Arduino with daisy chained shift registers that it sends fast PWM signals to transmit midi data to the fingers. For more details please read my [thesis](https://github.com/matthew-gratin/portfolio/blob/main/Tchaibotsky-2_compressed-1.pdf).
+From the results of this test I concluded people couldn't tell the difference. I know ai music composition has come along way since my initial design. This was originally built in the year the attention is all you need paper came out and started transformers (type of algorithm in chatgpt), it uses one of the earliest implimentations of one. It can generate pieces around 2-3 minutes in length in the form of midi files and can even attempt to harmonise it with your own songs. This is built from 88 solenoid actuators. Originally it was made on breadboards and an old cupboard I found on the street for the frame! Now I have made some custom PCBs and an aluminium frame. It uses an Arduino with daisy chained shift registers that it sends fast PWM signals to transmit midi data to the fingers. For more details please read my [thesis](https://github.com/matthew-gratin/portfolio/blob/main/Tchaibotsky-2_compressed-1.pdf).
 
 [I got featured on Tiffany Poon's podcast!](https://www.youtube.com/watch?v=dhRES9lAGE0)
 
-I was honoured to do the Oxford University Robotics Institute Christmas Lecture this year on the engineering design of Tchaibotsky and how music and maths link!
+I was asked to do the Oxford University Robotics Institute Christmas Lecture this year on the engineering design of Tchaibotsky and how musical maths is! You can listen to it playing some Christmas songs from the lecture by downloading the videos in the data folder.
 
 <p align="center">
   <img src="data/tchaibotsky lecture.jpg" width="500" height="400" alt="Tchaibotsky">
 </p>
 
-You can listen to it play some christmas songs (need to download as there is no native videos on github, another link in the data folder)
-<video width="400" height="300" controls>
-  <source src="data/tchaibotsky video.mp4" type="video/mp4">
-</video>
 
 # Robot Sister
 
-It was my cousins wedding and my sister had to miss it as she was in New Zealand in the middle of a huge rocket mission. My mission was to build a telepresence robot in 2 weeks to get her to the wedding. I made a 3 omniwheeled robot with camera, microphone and speaker. Made it stream the video feed to a webpage which she could use to ssh into the robot via a virtual local network and then control all the features through the internet. She was able to dance the robot with everyone else and sing along to all the songs (with 1.2 seconds time delay). 
-![alt text](https://github.com/matthew-gratin/portfolio/blob/main/darcey%20pre%20party.jpeg?raw=true) 
-she got a bit battered during the wedding!
-![alt text](https://github.com/matthew-gratin/portfolio/blob/main/darcey%20post%20party.jpeg?raw=true) 
-
+It was my cousins wedding two years ago and my sister had to miss it as she was in New Zealand launching rockets at Rocket lab! My mission was to build a telepresence robot in 2 weeks to get her to the wedding. I made a 3 omniwheeled robot with camera, microphone and speaker. Made it stream the video feed to a webpage which she could use to SSH into the robot via a virtual local network and then control all the features simply through the web browser. She was able to dance the robot with everyone else and sing along to all the songs (with 1.2 seconds time delay). And before you ask, yes there was an evil robot voice mode.
+<p align="center">
+  <img src="data/darcey pre party.jpeg" width="500" height="400" alt="Tchaibotsky">
+</p>
+She got a bit battered during the wedding!
+<p align="center">
+  <img src="data/darcey post party.jpeg" width="500" height="400" alt="Tchaibotsky">
+</p>
 # Wizard Chess
 
 ![alt text](https://github.com/matthew-gratin/portfolio/blob/main/chess%20image.jpg)
