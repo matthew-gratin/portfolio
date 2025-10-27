@@ -1,12 +1,3 @@
-# Interferometer
-
-<p align="center">
-  <img src="data/interferometer.jpg" width="400" height="300" alt="Interferometer">
-</p>
-
-
-  Here is the record of the interferometer I designed at CERN. Currently these tools cost £4000 and are tricky for even a scientist to set up. I redesigned it using a cheap laser pen and a 3D printer for only £40. They are super accurate measuring devices that are currently used to find gravity waves. Ours can measure the deflection of a piezo crystal down to 50nm (that is 2000x thinner than your hair). I helped run a workshop with kids and teachers to refine our instructions and set up templates; by the end of it kids were able to create a quantum eraser and prove for themselves that light doesn't actually move in a straight line in under ten minutes with no help. Importantly, what was usualy a dry and hard to explain physics lesson became, a super fun day they could independantly discover crazy stuff about the universe. [Here is the initial design and testing documentation and how that all works.](https://cds.cern.ch/record/2705782?ln=en) It is part of the science gateway outreach program in CERN, so if you are a school kid going on a trip there be prepared to make your own quantum waves! If you want the latest design to print your own, it lives [here!](https://scoollab.web.cern.ch/laserlab3D)
-
 # The self playing piano "Tchaibotsky"
 
 <p align="center">
@@ -56,16 +47,6 @@ Here is an example of a lego mosaic I made:
   <img src="data/lego britain.jpeg" width="300" height="600" alt="bricktain">
 </p>
 
-# Wizard Chess
-
-<p align="center">
-  <img src="data/chess image.jpg" width="500" height="400" alt="chess">
-</p>
-
-I was watching Harry Potter with some friends and thought they should have used practical effects for the scenes where Ron can make chess pieces move around the board with just his voice. My friends told me it would be impossible, so of course I needed to prove them wrong! There are 3 modes, player vs player, player vs computer and my personal favourite is computer vs computer. I coded the AI from scratch using markov decision trees. It only needs to look two moves ahead to beat me every time, I don't know what that says about me!
-It uses an electromagnet on a 2 axes gantry to move the pieces to the desired locations. It used to connect to a google cloud server to offload the speech recognition system to Google's much bulkier computer than my NUC. This limited its commerical potential. However, with advances in AI, I can now run an offline deep learning Whisper model on a Pi 5, while a Teensy microcontroller deals with all the actuation. I also built the chess board by photo etching brass and then filling the holes with black shellac wax; its the same method for making clock faces. Features I want to develop are web access, so you can play against people online and connect to live chess streams where the wizard chess board would move its pieces as the professional players move theirs. My favourite thing to do at the moment is watch the CPU's play each other. I now have a client who wants this built as a coffee table to have Chess games play automatically under a mug of tea, I am slowly hoping to build this more often for others as I think it will be quite popular.
-
-Github doesn't allow native videos but you can find some videos of it working in the data folder. But, if you want to have a game and see more you will need to bring me to the office! ;)
 
 # The drawing machine. 
 
@@ -87,6 +68,18 @@ I made a second version which I developed into a second year design module at Ox
   <img src="data/pen plotter course.png" width="500" height="400" alt="plotter">
 </p>
 
+# Wizard Chess
+
+<p align="center">
+  <img src="data/chess image.jpg" width="500" height="400" alt="chess">
+</p>
+
+I was watching Harry Potter with some friends and thought they should have used practical effects for the scenes where Ron can make chess pieces move around the board with just his voice. My friends told me it would be impossible, so of course I needed to prove them wrong! There are 3 modes, player vs player, player vs computer and my personal favourite is computer vs computer. I coded the AI from scratch using markov decision trees. It only needs to look two moves ahead to beat me every time, I don't know what that says about me!
+It uses an electromagnet on a 2 axes gantry to move the pieces to the desired locations. It used to connect to a google cloud server to offload the speech recognition system to Google's much bulkier computer than my NUC. This limited its commerical potential. However, with advances in AI, I can now run an offline deep learning Whisper model on a Pi 5, while a Teensy microcontroller deals with all the actuation. I also built the chess board by photo etching brass and then filling the holes with black shellac wax; its the same method for making clock faces. Features I want to develop are web access, so you can play against people online and connect to live chess streams where the wizard chess board would move its pieces as the professional players move theirs. My favourite thing to do at the moment is watch the CPU's play each other. I now have a client who wants this built as a coffee table to have Chess games play automatically under a mug of tea, I am slowly hoping to build this more often for others as I think it will be quite popular.
+
+Github doesn't allow native videos but you can find some videos of it working in the data folder. But, if you want to have a game and see more you will need to bring me to the office! ;)
+
+
 # Robot Sister
 
 <p align="center">
@@ -100,6 +93,15 @@ She got a bit battered during the wedding!
 <p align="center">
   <img src="data/darcey post party.jpeg" width="500" height="400" alt="Darcey post">
 </p>
+
+# Interferometer
+
+<p align="center">
+  <img src="data/interferometer.jpg" width="400" height="300" alt="Interferometer">
+</p>
+
+
+  Here is the record of the interferometer I designed at CERN. Currently these tools cost £4000 and are tricky for even a scientist to set up. I redesigned it using a cheap laser pen and a 3D printer for only £40. They are super accurate measuring devices that are currently used to find gravity waves. Ours can measure the deflection of a piezo crystal down to 50nm (that is 2000x thinner than your hair). I helped run a workshop with kids and teachers to refine our instructions and set up templates; by the end of it kids were able to create a quantum eraser and prove for themselves that light doesn't actually move in a straight line in under ten minutes with no help. Importantly, what was usualy a dry and hard to explain physics lesson became, a super fun day they could independantly discover crazy stuff about the universe. [Here is the initial design and testing documentation and how that all works.](https://cds.cern.ch/record/2705782?ln=en) It is part of the science gateway outreach program in CERN, so if you are a school kid going on a trip there be prepared to make your own quantum waves! If you want the latest design to print your own, it lives [here!](https://scoollab.web.cern.ch/laserlab3D)
 
 # Nixie tube clock
 
